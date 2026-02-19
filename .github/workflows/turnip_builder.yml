@@ -34,4 +34,4 @@ jobs:
         tag_name: github_run
         name: Action Release
         files: |
-           /tmp/turnip/lib/libvulkan_freedreno.so
+           /tmp/turnip/lib/libvulkan_panfrost.so
